@@ -1,0 +1,1 @@
+  5/27/20 9:38:18 AM CDT: Starting composition “tempConverterComp”.  Output To: /private/var/folders/83/pdqc0hpj45j6jkqtmsdqcyn00000gr/T/TemporaryItems/Bodymovin/rqvxjcj1c3/raw/images/img_0.png    5/27/20 9:38:22 AM CDT: Finished composition “tempConverterComp”.  Total Time Elapsed: 4 SecondsLog closed on 5/27/20 at 9:38:22 AM CDT
